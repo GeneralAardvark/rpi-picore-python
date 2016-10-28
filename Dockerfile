@@ -1,5 +1,5 @@
 
-FROM generalaardvark/docker-picore
+FROM generalaardvark/rpi-picore:latest
 
 MAINTAINER Pie <generalaardvark@piesweb.co.uk>
 
